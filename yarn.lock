@@ -60,9 +60,9 @@
     web3 "^0.20.0"
     web3-typescript-typings "^0.10.2"
 
-"@0xproject/deployer@^0.3.2":
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/@0xproject/deployer/-/deployer-0.3.2.tgz#8c9b858b2cdf249ab7113d2724c8e8ca6dd2a617"
+"@0xproject/deployer@^0.3.3":
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/@0xproject/deployer/-/deployer-0.3.3.tgz#ec6dce4521f3644d2eebe9b3abd57e741a24276d"
   dependencies:
     "@0xproject/json-schemas" "^0.7.17"
     "@0xproject/types" "^0.4.1"
