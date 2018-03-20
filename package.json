@@ -33,7 +33,7 @@
   "devDependencies": {
     "@0xproject/dev-utils": "^0.3.0",
     "@0xproject/tslint-config": "^0.4.12",
-    "@types/lodash": "^4.14.86",
+    "@types/lodash": "4.14.104",
     "@types/node": "^8.0.53",
     "chai": "^4.0.1",
     "chai-as-promised": "^7.1.0",
