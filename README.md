@@ -2,7 +2,7 @@
 
 Boilerplate project for testing Solidity smart contracts with TypeScript
 
-Huge thanks to @fabioberger and the @0xproject team for building these tools and helping share them with the community!
+Huge thanks to [@fabioberger](https://github.com/fabioberger) and the [@0xproject](https://github.com/0xproject) team for building these tools and helping share them with the community!
 
 ### Install Dependencies
 
