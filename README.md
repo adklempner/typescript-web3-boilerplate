@@ -9,7 +9,7 @@ Huge thanks to [@fabioberger](https://github.com/fabioberger) and the [@0xprojec
 If you don't have yarn workspaces enabled (Yarn < v1.0) - enable them:
 
 ```bash
-yarn config set workspaces-experimental trueffffff
+yarn config set workspaces-experimental true
 ```
 
 Then install dependencies (due to a compatibility issue with web3js and yarn, you'll need to run npm install as well)
